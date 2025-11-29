@@ -2,7 +2,7 @@
 
 The Bankist App is a simple, front-end banking application simulation built with HTML, CSS, and vanilla JavaScript. It demonstrates various modern JavaScript concepts, including array methods, event handling, and functional programming techniques, to manage user accounts and transactions.
 
-## 🚀 Features
+##  Features
 
 The application simulates a basic banking interface with the following core functionalities:
 
@@ -15,13 +15,13 @@ The application simulates a basic banking interface with the following core func
 *   **Sorting:** Movements can be sorted in ascending or descending order.
 *   **Logout Timer:** A simple timer is implemented to automatically log the user out after a period of inactivity.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 *   **HTML5**
 *   **CSS3**
 *   **JavaScript (ES6+)**
 
-## 🔑 Login Credentials
+##  Login Credentials
 
 The application uses hardcoded data for demonstration purposes. You can log in with the following credentials:
 
@@ -49,7 +49,7 @@ This is a purely front-end application and does not require any build tools or s
 3.  **Open `index.html`:**
     Simply open the `index.html` file in your web browser.
 
-## 🖼️ Project Structure
+##  Project Structure
 
 ```
 Bankist/
@@ -61,7 +61,7 @@ Bankist/
 └── Bankist-flowchart.png # Flowchart/diagram of the application logic
 ```
 
-## 💡 Learning Focus
+##  Learning Focus
 
 This project is an excellent resource for learning and practicing:
 
