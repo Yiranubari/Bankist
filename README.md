@@ -34,7 +34,7 @@ The application uses hardcoded data for demonstration purposes. You can log in w
 
 *Note: The username is generated from the owner's initials (e.g., **J**onas **S**chmedtmann -> `js`).*
 
-## 💻 How to Run
+##  How to Run
 
 This is a purely front-end application and does not require any build tools or server-side setup.
 
